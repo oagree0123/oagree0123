@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Yejun%20Yun&fontAlign=50&fontAlignY=40&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Yejun&fontAlign=50&fontAlignY=40&color=gradient)
 <h3>
    안녕하세요! 프론트엔드 개발자 오예준입니다!</b><br/>
 </h3>
